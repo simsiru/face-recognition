@@ -1,0 +1,7 @@
+{
+    "database": "face_recognition",
+    "hostname": "localhost",
+    "password": "docker",
+    "port_id": 5432,
+    "username": "postgres"
+}
